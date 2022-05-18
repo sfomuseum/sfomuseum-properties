@@ -2,6 +2,6 @@
   "id": 1779487633,
   "name": "is_sfo",
   "prefix": "flysfo",
-  "description": "",
-  "type": ""
+  "description": "A boolean flag signaling whether this record is directly related to operations at SFO.",
+  "type": "integer"
 }

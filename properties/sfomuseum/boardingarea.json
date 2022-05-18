@@ -3,5 +3,5 @@
   "name": "boardingarea",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

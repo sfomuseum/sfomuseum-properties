@@ -3,5 +3,5 @@
   "name": "continent",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

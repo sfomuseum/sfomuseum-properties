@@ -2,6 +2,6 @@
   "id": 1779487673,
   "name": "url",
   "prefix": "flysfo",
-  "description": "",
-  "type": ""
+  "description": "The URL of an webpage related to this feature.",
+  "type": "string"
 }

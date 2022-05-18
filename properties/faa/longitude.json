@@ -2,6 +2,6 @@
   "id": 1779487493,
   "name": "longitude",
   "prefix": "faa",
-  "description": "",
-  "type": ""
+  "description": "The lontitude coordinate for a feature.",
+  "type": "float"
 }

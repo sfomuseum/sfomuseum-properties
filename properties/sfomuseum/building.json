@@ -3,5 +3,5 @@
   "name": "building",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

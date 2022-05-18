@@ -3,5 +3,5 @@
   "name": "airline_role",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

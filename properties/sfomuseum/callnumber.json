@@ -3,5 +3,5 @@
   "name": "callnumber",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

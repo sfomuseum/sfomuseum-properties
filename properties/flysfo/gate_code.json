@@ -2,6 +2,6 @@
   "id": 1779487483,
   "name": "gate_code",
   "prefix": "flysfo",
-  "description": "",
-  "type": ""
+  "description": "The name of a gate.",
+  "type": "string"
 }

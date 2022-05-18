@@ -3,5 +3,5 @@
   "name": "author",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

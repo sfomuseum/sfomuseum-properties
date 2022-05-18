@@ -3,5 +3,5 @@
   "name": "accession_number",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

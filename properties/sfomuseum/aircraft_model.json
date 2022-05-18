@@ -3,5 +3,5 @@
   "name": "aircraft_model",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

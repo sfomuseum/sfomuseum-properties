@@ -3,5 +3,5 @@
   "name": "parent_id",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "integer"
 }

@@ -3,5 +3,5 @@
   "name": "creditline",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

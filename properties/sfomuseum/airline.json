@@ -3,5 +3,5 @@
   "name": "airline",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

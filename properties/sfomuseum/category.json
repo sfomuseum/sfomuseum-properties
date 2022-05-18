@@ -3,5 +3,5 @@
   "name": "category",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

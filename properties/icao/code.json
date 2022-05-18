@@ -3,5 +3,5 @@
   "name": "code",
   "prefix": "icao",
   "description": "",
-  "type": ""
+  "type": "string"
 }

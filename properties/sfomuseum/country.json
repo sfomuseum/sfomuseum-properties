@@ -3,5 +3,5 @@
   "name": "country",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "string"
 }

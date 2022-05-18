@@ -3,5 +3,5 @@
   "name": "count_objects_public",
   "prefix": "sfomuseum",
   "description": "",
-  "type": ""
+  "type": "integer"
 }
