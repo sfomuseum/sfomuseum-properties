@@ -8,14 +8,14 @@ This repository contains machine-readable properties descriptions for properties
 
 Some (but not all) of these properties may eventually be moved in to the `whosonfirst/properties` repository.
 
-The records were created using the `index` tool which is part of the [whosonfirst/go-whosonfirst-properties](https://github.com/whosonfirst/go-whosonfirst-properties) package. For example:
+The records were created using the `index-properties` tool which is part of the [whosonfirst/go-whosonfirst-properties](https://github.com/whosonfirst/go-whosonfirst-properties) package. For example:
 
 ```
-$> ./bin/index \
-	-exclude 'misc\:.*' \
+> ./bin/index-properties \
+	-iterator-uri org:///tmp \
+	-properties /usr/local/sfomuseum/sfomuseum-properties/properties \
 	-alternate /usr/local/whosonfirst/whosonfirst-properties/properties \
-	-properties /usr/local/sfomuseum/sfomuseum-properties/properties/ \
-	/usr/local/data/sfomuseum-data-*
+	'sfomuseum-data://?prefix=sfomuseum-data-&exclude=sfomuseum-data-flights-YYYY-MM'
 ```
 
 ## See also
